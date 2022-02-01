@@ -14,7 +14,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-* npm
+* Python 3.7
 
 
 ### Installation
