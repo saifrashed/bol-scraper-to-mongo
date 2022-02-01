@@ -32,5 +32,5 @@ ITEM_PIPELINES = {
 FEED_EXPORT_ENCODING = 'UTF-8'
 
 
-MONGO_URI = 'mongodb+srv://saifrashed:saifrashed@cluster0.enehy.azure.mongodb.net/test?retryWrites=true&w=majority'
+MONGO_URI = ''
 MONGO_DATABASE = 'test'
