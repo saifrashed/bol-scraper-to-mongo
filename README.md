@@ -26,13 +26,14 @@ _Below are the steps of how you can start installing and setting up the app._
    ```
 2. Install Scrapy 
    ```sh
-  pip install Scrapy
+   pip install Scrapy
    ```
 
 3. Run the scrapy crawl script
    ```sh
    scrapy crawl bol
    ```
+  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
